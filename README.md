@@ -1,5 +1,8 @@
 ## Clash for Windows
 
+### 下载
+[realese](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+
 ### 运行条件
 
 ``C:\Users\用户名\.config\clash``下包含配置文件**config.yml**
