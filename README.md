@@ -9,7 +9,7 @@
 
 ### 启动软件时可以唤起Clash
 
-只需将``clash-win64.exe``也放置在上面的目录中即可
+只需将[clash-win64.exe](https://github.com/Dreamacro/clash/releases)也放置在上面的目录中即可
 
 ### 目前功能
 - 显示配置信息
