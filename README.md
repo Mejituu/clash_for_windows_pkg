@@ -1,15 +1,26 @@
 ## Clash for Windows
 
-### 下载
+### 名词
+- Clash :  是一个面向全平台的代理客户端，[Github](https://github.com/Dreamacro/clash)
+- Clash for Windows :  此项目，一个Clash的Windows用户图形界面
+
+### 下载安装
 [realese](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
-### 运行条件
+### 环境依赖
 
-``C:\Users\用户名\.config\clash``下包含配置文件**config.yml**
+C:\Users\用户名\\.config\clash
 
-### 启动软件时可以唤起Clash
+├─ clash-win64.exe ( [下载](https://github.com/Dreamacro/clash/releases) )
 
-只需将[clash-win64.exe](https://github.com/Dreamacro/clash/releases)也放置在上面的目录中即可
+├─ config.yml ( [参考](https://github.com/Dreamacro/clash) )
+
+└─ Country.mmdb ( 运行一次clash-win64.exe后自动生成 )
+
+以上文件准备就绪后，运行 **Clash for Windows.exe** ，将会自动启动 **Clash** 
+
+
+只需将也放置在上面的目录中即可
 
 ### 目前功能
 - 显示配置信息
