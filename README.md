@@ -13,7 +13,7 @@ C:\Users\用户名\\.config\clash
 
 ├─ clash-win64.exe ( [下载](https://github.com/Dreamacro/clash/releases) )
 
-├─ config.yml ( [参考](https://github.com/Dreamacro/clash) )
+├─ config.yml ( [参考](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/config.yml) )
 
 └─ Country.mmdb ( 运行一次clash-win64.exe后自动生成 )
 
