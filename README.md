@@ -5,7 +5,7 @@
 - Clash for Windows :  此项目，一个Clash的Windows用户图形界面
 
 ### 下载安装
-[realese](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+[Clash for Windows下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
 ### 环境依赖
 
