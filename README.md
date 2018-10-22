@@ -15,7 +15,7 @@ C:\Users\用户名\\.config\clash
 
 ├─ config.yml ( [参考](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/config.yml) )
 
-└─ Country.mmdb ( 运行一次clash-win64.exe后自动生成 )
+└─ Country.mmdb ( [下载](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/Country.mmdb?raw=true) )
 
 以上文件准备就绪后，运行 **Clash for Windows.exe** ，将会自动启动 **Clash** 
 
