@@ -1,0 +1,24 @@
+port: 7890
+socks-port: 7891
+redir-port: 7892
+allow-lan: false
+mode: Rule
+log-level: info
+external-controller: '0.0.0.0:9090'
+secret: ''
+Proxy: 
+  - name: 'Shadowsocks'
+    type: socks5
+    server: '127.0.0.1'
+    port: 1080
+Proxy Group: 
+  - name: Proxy
+    type: select
+    proxies:
+      - Shadowsocks
+Rule:
+  - 'DOMAIN-SUFFIX,google.com,Proxy'
+  - 'DOMAIN-KEYWORD,google,Proxy'
+  - 'DOMAIN-SUFFIX,ad.com,REJECT'
+  - 'GEOIP,CN,DIRECT'
+  - 'FINAL,,Proxy'
