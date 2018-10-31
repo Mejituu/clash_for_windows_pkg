@@ -15,7 +15,7 @@ C:\Users\用户名\\.config\clash
 
 ├─ clash-win64.exe ( [下载](https://github.com/Dreamacro/clash/releases) )
 
-├─ config.yml ( [空白模板](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/config.yml) | [详细参考](https://github.com/Dreamacro/clash#config) )
+├─ config.yml ( [空白模板](https://raw.githubusercontent.com/Fndroid/clash_for_windows_pkg/master/config.yml) | [详细参考](https://github.com/Dreamacro/clash#config) )
 
 └─ Country.mmdb ( [下载](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/Country.mmdb?raw=true) )
 
