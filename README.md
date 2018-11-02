@@ -1,6 +1,6 @@
 ## Clash for Windows
 
-![Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/imgs/demo.png?raw=true)
+![Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/imgs/demo2.png?raw=true)
 
 ### 名词
 - Clash :  是一个面向全平台的代理客户端，[Github](https://github.com/Dreamacro/clash)
