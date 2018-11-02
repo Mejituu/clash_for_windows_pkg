@@ -13,8 +13,6 @@
 
 C:\Users\用户名\\.config\clash
 
-├─ clash-win64.exe ( [下载](https://github.com/Dreamacro/clash/releases) )
-
 ├─ config.yml ( [空白模板](https://raw.githubusercontent.com/Fndroid/clash_for_windows_pkg/master/config.yml) | [详细参考](https://github.com/Dreamacro/clash#config) )
 
 └─ Country.mmdb ( [下载](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/Country.mmdb?raw=true) )
@@ -35,5 +33,3 @@ Clash for Windows运行后，如左下角出现**Disconnected to Clash**字样�
 - 配置文件托管
 - 支持UI修改配置
 
-### 缺陷
-- 暂不支持自启动
