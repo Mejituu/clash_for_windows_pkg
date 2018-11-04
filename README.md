@@ -17,7 +17,7 @@ C:\Users\用户名\\.config\clash
 
 └─ Country.mmdb ( [下载](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/Country.mmdb?raw=true) )
 
-以上文件准备就绪后，运行 **Clash for Windows.exe** ，将会自动启动 **Clash** 
+以上文件准备就绪后，即可运行 **Clash for Windows.exe**
 
 ### 错误排查
 Clash for Windows运行后，如左下角出现**Disconnected to Clash**字样，表示GUI无法启动Clash核心进程，通常情况是配置文件存在错误导致的，此时可以进入配置文件目录，打开目录中**logs**文件夹，并选取最新的log进行排错
