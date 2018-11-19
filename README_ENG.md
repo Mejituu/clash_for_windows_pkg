@@ -23,10 +23,9 @@ The first time you start the software, corresponding dependent files will be aut
 After Clash for Windows runs, if **Disconnected to Clash** appears in the lower left corner, it means that the GUI cannot start the Clash core process. Usually, the configuration file is incorrect. You can enter the configuration file directory and open the **logs** directory. Then select the latest log for troubleshooting.
 
 ### Features
-- Displaying configuration information
-- Switching proxy mode
+- Displaying core information
+- Switching policy mode
 - Switching proxy
 - Testing latency
 - Saving logs
-- Remembering your workspace
 
