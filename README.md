@@ -2,34 +2,30 @@
 
 ![Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/imgs/demo3.png?raw=true)
 
-[使用说明](https://docs.cfw.lbyczf.com/) | [English](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/README_ENG.md)
+[Document](https://docs.cfw.lbyczf.com/)
 
-### 名词
-- Clash :  是一个面向全平台的代理客户端，[Github](https://github.com/Dreamacro/clash)
-- Clash for Windows :  此项目，一个Clash的Windows用户图形界面
+### Keywords
+- Clash : A multi-platform proxy client, [Github](https://github.com/Dreamacro/clash)
+- Clash for Windows :  This project, a GUI of Clash on Windows
 
-### 下载安装
-[Clash for Windows下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+### Installation
+[Download Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
-### 首次启动
-首次启动软件会自动下载对应的依赖文件并重启一次，默认配置文件提供一个简单的Shadowsocks本地socks5节点，请根据实际情况修改配置文件
+### Initial start
+The first time you start the software, corresponding dependent files will be automatically downloaded and restarted. The default configuration file provides a simple Shadowsocks local socks5 proxy. Please modify the configuration file according to the actual situation.
 
-### 配置文件格式
- [config.yml格式参考](https://github.com/Dreamacro/clash#config)
+### Configuration file format
+ [config.yml demo](https://github.com/Dreamacro/clash#config)
  
-> 可在Clash for Windows首页点击**Home Directory**进入配置文件目录进行修改，或直接使用UI编辑
+> You can click on **Home Directory** on the Clash for Windows home page to go to the configuration file directory for modification, or use UI editing directly.
 
-### 错误排查
-Clash for Windows运行后，如左下角出现**Disconnected to Clash**字样，表示GUI无法启动Clash核心进程，通常情况是配置文件存在错误导致的，此时可以进入配置文件目录，打开目录中**logs**文件夹，并选取最新的log进行排错
+### Errors
+After Clash for Windows runs, if **Disconnected to Clash** appears in the lower left corner, it means that the GUI cannot start the Clash core process. Usually, the configuration file is incorrect. You can enter the configuration file directory and open the **logs** directory. Then select the latest log for troubleshooting.
 
-### 目前功能
-- 显示配置信息
-- 切换分流模式
-- 切换策略组节点
-- 节点批量延迟测试
-- 日志输出
-- 节点按配置排序
-- 软件重启恢复之前的节点选择
-- 配置文件托管
-- 支持UI修改配置
+### Features
+- Displaying core information
+- Switching policy mode
+- Switching proxy
+- Testing latency
+- Saving logs
 
