@@ -5,7 +5,7 @@
 [Document](https://docs.cfw.lbyczf.com/)
 
 ### Keywords
-- Clash : A multi-platform proxy client, [Github](https://github.com/Dreamacro/clash)
+- Clash : A multi-platform & rule-base tunnel, [Github](https://github.com/Dreamacro/clash)
 - Clash for Windows :  This project, a GUI of Clash on Windows
 
 ### Installation
