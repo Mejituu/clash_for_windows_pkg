@@ -27,6 +27,7 @@ After Clash for Windows runs, if **Disconnected to Clash** appears in the lower 
 
 ### Features
 - Displaying core information
+- Switching profile
 - Switching policy mode
 - Switching proxy
 - Testing latency
