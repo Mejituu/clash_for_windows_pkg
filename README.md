@@ -2,8 +2,6 @@
 
 ![Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/imgs/screely-1545304791538.png?raw=true)
 
-[Document]()
-
 <div>
   <a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">
     <img src="https://img.shields.io/badge/release-0.5.9-green.svg" />
