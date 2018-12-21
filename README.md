@@ -2,7 +2,16 @@
 
 ![Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/imgs/screely-1545304791538.png?raw=true)
 
-[Document](https://docs.cfw.lbyczf.com/)
+[Document]()
+
+<div>
+  <a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">
+    <img src="https://img.shields.io/badge/release-0.5.9-green.svg" />
+  </a>
+   <a href="https://docs.cfw.lbyczf.com/">
+    <img src="https://img.shields.io/badge/document-chinese-blue.svg" />
+  </a>
+</div>
 
 ### Keywords
 - Clash : A multi-platform & rule-base tunnel, [Github](https://github.com/Dreamacro/clash)
