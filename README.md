@@ -13,7 +13,7 @@
 
 ### Keywords
 - Clash : A multi-platform & rule-base tunnel, [Github](https://github.com/Dreamacro/clash)
-- ClashX for Mac : A GUI of Clash on MacOS, [Github](https://github.com/yichengchen/clashX)
+- ClashX for Mac : A GUI of Clash on macOS, [Github](https://github.com/yichengchen/clashX)
 - **Clash for Windows :  This project, a GUI of Clash on Windows**
 
 ### Installation
