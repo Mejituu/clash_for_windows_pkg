@@ -24,11 +24,11 @@ The first time you start the software, corresponding dependent files will be aut
 
 ### Importing profiles
 
-#### Local file
+#### Local file (Drag & Drop)
 
 ![](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/imgs/drop.gif?raw=true)
 
-#### Remote file
+#### Remote file (Download from URL)
 
 ![](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/imgs/drop2.gif?raw=true)
 
