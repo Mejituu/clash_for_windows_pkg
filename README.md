@@ -22,6 +22,16 @@
 ### Initial start
 The first time you start the software, corresponding dependent files will be automatically downloaded and restarted. The default configuration file provides a simple Shadowsocks local socks5 proxy. Please modify the configuration file according to the actual situation.
 
+### Importing profiles
+
+#### Local file
+
+![](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/imgs/drop.gif?raw=true)
+
+#### Remote file
+
+![](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/imgs/drop2.gif?raw=true)
+
 ### Errors
 After Clash for Windows runs, if **Disconnected to Clash** appears in the lower left corner, it means that the GUI cannot start the Clash core process. Usually, the configuration file is incorrect. You can enter the configuration file directory and open the **logs** directory. Then select the latest log for troubleshooting.
 
