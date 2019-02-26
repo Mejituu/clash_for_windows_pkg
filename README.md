@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">
-    <img src="https://img.shields.io/badge/release-0.5.23-green.svg" />
+    <img src="https://img.shields.io/badge/release-0.5.25-green.svg" />
   </a>
    <a href="https://docs.cfw.lbyczf.com/">
     <img src="https://img.shields.io/badge/document-chinese-blue.svg" />
