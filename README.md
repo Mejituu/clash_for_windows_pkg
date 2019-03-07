@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/release-0.5.28-green.svg" />
   </a>
    <a href="https://docs.cfw.lbyczf.com/">
-    <img src="https://img.shields.io/badge/document-chinese-blue.svg" />
+    <img src="https://img.shields.io/badge/document-online-blue.svg" />
   </a>
 </div>
 
