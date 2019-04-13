@@ -43,7 +43,7 @@ After Clash for Windows runs, if **Disconnected to Clash** appears in the lower 
 - Testing latency
 - Saving logs
 
-### License
+### Licenses
 - [axios/axios](https://github.com/axios/axios) (MIT)
 - [kevva/decompress](https://github.com/kevva/decompress) (MIT)
 - [mathiasbynens/emoji-regex](https://github.com/mathiasbynens/emoji-regex) (MIT)
