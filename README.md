@@ -43,3 +43,20 @@ After Clash for Windows runs, if **Disconnected to Clash** appears in the lower 
 - Testing latency
 - Saving logs
 
+### License
+- [axios/axios](https://github.com/axios/axios) (MIT)
+- [kevva/decompress](https://github.com/kevva/decompress) (MIT)
+- [mathiasbynens/emoji-regex](https://github.com/mathiasbynens/emoji-regex) (MIT)
+- [sindresorhus/got](https://github.com/sindresorhus/got) (MIT)
+- [lodash/lodash](https://github.com/lodash/lodash) (MIT)
+- [pvorb/node-md5](https://github.com/pvorb/node-md5) (BSD-3-Clause)
+- [moment/moment](https://github.com/moment/moment) [MIT]
+- [jrop/nedb-promise](https://github.com/jrop/nedb-promise) (ISC)
+- [ironSource/node-regedit](https://github.com/ironSource/node-regedit) (MIT)
+- [julianshapiro/velocity](https://github.com/julianshapiro/velocity) (MIT)
+- [vuejs/vue](https://github.com/vuejs/vue) (MIT)
+- [SimulatedGREG/vue-electron](https://github.com/SimulatedGREG/vue-electron) (ISC)
+- [vuejs/vue-router](https://github.com/vuejs/vue-router) (MIT)
+- [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) (MIT)
+- [vuejs/vuex](https://github.com/vuejs/vuex) (MIT)
+- [eemeli/yaml](https://github.com/eemeli/yaml) (ISC)
