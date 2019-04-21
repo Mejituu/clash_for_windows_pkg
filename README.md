@@ -51,7 +51,7 @@ After Clash for Windows runs, if **Disconnected to Clash** appears in the lower 
 
 ### Licenses
 - [axios/axios](https://github.com/axios/axios) (MIT)
-- [kevva/decompress](https://github.com/kevva/decompress) (MIT)
+- [mafintosh/tar-stream](https://github.com/mafintosh/tar-stream) (MIT)
 - [mathiasbynens/emoji-regex](https://github.com/mathiasbynens/emoji-regex) (MIT)
 - [sindresorhus/got](https://github.com/sindresorhus/got) (MIT)
 - [lodash/lodash](https://github.com/lodash/lodash) (MIT)
