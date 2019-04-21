@@ -4,10 +4,16 @@
 
 <div>
   <a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">
-    <img src="https://img.shields.io/github/release/fndroid/clash_for_windows_pkg.svg" />
+    <img src="https://img.shields.io/github/release/fndroid/clash_for_windows_pkg.svg?color=%230090ff&style=for-the-badge" />
   </a>
-   <a href="https://docs.cfw.lbyczf.com/">
-    <img src="https://img.shields.io/badge/document-online-blue.svg" />
+  <a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">
+    <img src="https://img.shields.io/github/release-date/fndroid/clash_for_windows_pkg.svg?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">
+    <img src="https://img.shields.io/github/downloads/fndroid/clash_for_windows_pkg/latest/total.svg?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Fndroid/clash_for_windows_pkg/issues">
+    <img src="https://img.shields.io/github/issues/fndroid/clash_for_windows_pkg.svg?style=for-the-badge" />
   </a>
 </div>
 
