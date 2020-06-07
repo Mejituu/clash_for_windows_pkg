@@ -1,3 +1,3 @@
 # Clash for Windows
 
-A Windows GUI based on Clash
+A Windows/macOS GUI based on Clash
