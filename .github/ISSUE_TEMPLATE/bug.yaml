@@ -72,3 +72,8 @@ body:
         ```
 
         </p></details>
+  - type: textarea
+    id: other
+    attributes:
+      label: 其他补充
+      description: 有其他内容补充请在下方填写。
