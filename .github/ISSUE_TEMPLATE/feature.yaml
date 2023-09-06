@@ -3,7 +3,7 @@ description: 提议新功能
 title: "[Feature Request]: "
 body:
   - type: textarea
-    id: description
+    id: general-image
     attributes:
       label: General界面截图
       description: 可在此输入框直接粘贴图片。
