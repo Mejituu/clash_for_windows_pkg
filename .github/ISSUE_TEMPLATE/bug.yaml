@@ -16,12 +16,11 @@ body:
         - label: 已经搜索过文档，没有发现相关内容
         - label: 已经尝试使用过最新版，问题依旧存在
         - label: 使用的是官方版本（未替换及修改过安装目录程序文件）
-  - type: input
-    id: app-version
+  - type: textarea
+    id: app-general-image
     attributes:
-      label: 软件版本
-      description: 可从General界面获知。
-      placeholder: "如: 0.18.0"
+      label: General界面截图
+      description: 在此输入框粘贴图片即可
     validations:
       required: true
   - type: dropdown
