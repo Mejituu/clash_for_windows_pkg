@@ -5,6 +5,13 @@ body:
   - type: textarea
     id: description
     attributes:
+      label: General界面截图
+      description: 可在此输入框直接粘贴图片。
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
       label: 功能描述
       description: 请具体描述功能及其作用。
     validations:
